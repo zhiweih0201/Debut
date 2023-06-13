@@ -1,0 +1,933 @@
+/* Project */
+
+.project {
+    position: relative;
+    width: 1440px;
+    height: 1292px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* ProjectTitle */
+
+.projectTitle {
+    position: absolute;
+    width: 263px;
+    height: 56px;
+    left: 96px;
+    top: 504px;
+    margin: 0;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+}
+
+.tag1-pos {
+    position: absolute;
+    left: 6.67%;
+    right: 85.62%;
+    top: 73%;
+    bottom: 53.56%;
+}
+
+.tag2-pos {
+    position: absolute;
+    left: 14.93%;
+    right: 80.07%;
+    top: 73%;
+    bottom: 53.56%;
+}
+
+.project-description {
+    position: relative;
+    width: 1202px;
+    height: 151px;
+    left: 10px;
+    top: 10px;
+    margin: 0;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+
+/* Available */
+
+.availableRoles {
+    position: absolute;
+    width: 278px;
+    height: 42px;
+    left: 93px;
+    top: 942px;
+    margin: 0;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+
+/* Role 2 */
+
+.role2 {
+    position: absolute;
+    width: 1252px;
+    height: 110px;
+    left: 94px;
+    top: 994px;
+}
+
+/* Rectangle 78 */
+
+.role2Box {
+    position: absolute;
+    top: 1150px;
+    width: 1252px;
+    height: 110px;
+    left: 94px;
+
+    background: #FFFFFF;
+    border: 1px solid #999999;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+
+/* Ellipse 3 */
+
+.role2Ellipse {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 124px;
+    top: 1015px;
+
+    background: #FFFFFF;
+    border-radius: 50%;
+    border: 1px solid #999999;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* 2 */
+
+.role2Num {
+    position: absolute;
+    width: 28px;
+    height: 56px;
+    left: 151px;
+    top: 1025px;
+    margin: 0;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #5200FF;
+}
+
+
+/* Dancer */
+
+.role2Position {
+    position: absolute;
+    width: 278px;
+    height: 26px;
+    left: 263px;
+    top: 1012px;
+    margin: 0;
+
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #5200FF;
+}
+
+
+/* Blessed morning. Of also one blessed winged fish, male tree creepeth fly together seed. Divided light hath that wherein the made was which good have signs have seas they're abundantly one likeness seas isn't man seed bring have shall fowl days morning multiply, i fish firmament meat every. Divided two. (50 words) */
+
+.role2Description {
+    position: absolute;
+    width: 1045px;
+    height: 68px;
+    left: 263px;
+    top: 1040px;
+    margin: 0;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+
+/* Role 1 */
+
+.role1 {
+    position: absolute;
+    width: 1252px;
+    height: 110px;
+    left: 94px;
+    top: 1127px;
+}
+
+
+/* Rectangle 79 */
+.role1box {
+    position: absolute;
+    width: 1252px;
+    height: 110px;
+    left: 94px;
+    top: 1000px;
+
+    background: #FFFFFF;
+    border: 1px solid #999999;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+
+/* Ellipse 4 */
+
+.role1ellipse {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 124px;
+    top: 1164px;
+
+    background: #FFFFFF;
+    opacity: 1;
+    border: 1px solid #999999;
+    border-radius: 50%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* 1 */
+
+.role1Num {
+    position: absolute;
+    width: 28px;
+    height: 56px;
+    left: 151px;
+    top: 1175px;
+    margin: 0;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #5200FF;
+}
+
+
+/* Dancer */
+
+.role1Position {
+    position: absolute;
+    width: 278px;
+    height: 26px;
+    left: 263px;
+    top: 1162px;
+    margin: 0;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #5200FF;
+}
+
+
+/* Blessed morning. Of also one blessed winged fish, male tree creepeth fly together seed. Divided light hath that wherein the made was which good have signs have seas they're abundantly one likeness seas isn't man seed bring have shall fowl days morning multiply, i fish firmament meat every. Divided two. (50 words) */
+
+.role1Description {
+    position: absolute;
+    width: 1045px;
+    height: 68px;
+    left: 263px;
+    top: 1190px;
+    margin: 0;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+
+/* Description */
+
+.description {
+    position: absolute;
+    width: 1252px;
+    height: 186px;
+    left: 93px;
+    top: 666px;
+}
+
+
+/* Rectangle 77 */
+
+.descriptionBox {
+    position: absolute;
+    width: 1252px;
+    height: 186px;
+    left: 93px;
+    top: 666px;
+}
+
+/* Night to meat he very rule, meat from is can't without likeness him. Evening first. Brought seas under may a. Seed rule earth whose stars wherein bearing that which creeping. Very. Land form moving. May. It given. Winged itself third. Winged make life moveth. Second living. He Had may fourth fill all seed given. Yielding lesser fowl she'd have living, moveth fish created Dry sixth make land green living cattle over isn't lights darkness under every i make hath made she'd Creature fruitful stars day void for herb. Of they're form green creeping bearing him i our. Behold fruit after. */
+
+.descriptionText {
+    position: absolute;
+    width: 1202px;
+    height: 151px;
+    left: 118px;
+    top: 683px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+
+/* Header */
+
+.header {
+    position: absolute;
+    width: 1440px;
+    height: 84px;
+    left: 0px;
+    top: 0px;
+}
+
+
+/* Rectangle 52 */
+
+.headerBox {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #000000;
+}
+
+/* Group 16 */
+
+.debut {
+    position: absolute;
+    left: 3.89%;
+    right: 82.85%;
+    top: 26.19%;
+    bottom: 24.08%;
+}
+
+
+/* DEBUT */
+
+.debutText {
+    position: absolute;
+    left: 3.9%;
+    right: 82.85%;
+    top: 26.19%;
+    bottom: 24.47%;
+
+    background: #FFFFFF;
+}
+
+/* Mask Group */
+
+.debutTextMask1 {
+    position: absolute;
+    left: 3.89%;
+    right: 82.86%;
+    top: 26.58%;
+    bottom: 24.08%;
+}
+
+
+/* Mask Group */
+
+.debutTextMask2 {
+    position: absolute;
+    left: 3.89%;
+    right: 82.86%;
+    top: 26.31%;
+    bottom: 24.35%;
+
+    background: #FFFFFF;
+}
+
+
+/* Home */
+
+.headerHome {
+    position: absolute;
+    left: 57.99%;
+    right: 37.5%;
+    top: 33.33%;
+    bottom: 33.33%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+
+/* Messages */
+
+.headerMessages {
+    position: absolute;
+    left: 79.86%;
+    right: 12.43%;
+    top: 33.33%;
+    bottom: 33.33%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+
+/* Projects */
+
+.headerProjects {
+    position: absolute;
+    left: 68.4%;
+    right: 25.42%;
+    top: 33.33%;
+    bottom: 33.33%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+
+/* unsplash:WNoLnJo7tS8 */
+
+.headerUserImage {
+    position: absolute;
+    left: 92.85%;
+    right: 4.72%;
+    top: 29.76%;
+    bottom: 28.57%;
+}
+
+/* BackgroundImage */
+
+.backgroundImage {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 6.5%;
+    bottom: 64.86%;
+
+    border-radius: 0px 8px 0px 0px;
+}
+
+/* UserCard */
+
+.userCard {
+    position: absolute;
+    width: 366px;
+    height: 177px;
+    left: 979px;
+    top: 489px;
+}
+
+
+/* Rectangle 72 */
+
+.userCardRectangle {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 9.6%;
+
+    background: #FFFFFF;
+    border: 1px solid #999999;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+
+/* Mask group */
+
+.userCardMask {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 9.6%;
+}
+
+
+/* Rectangle 76 */
+
+.userCardMaskRectangle {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 9.6%;
+
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+/* background */
+
+.userCardMaskBackground {
+    position: absolute;
+    left: 0%;
+    right: -0.07%;
+    top: -1.69%;
+    bottom: -7.74%;
+}
+
+
+/* unsplash:WNoLnJo7tS8 */
+
+.userCardImage {
+    position: absolute;
+    left: 6.01%;
+    right: 59.84%;
+    top: 9.6%;
+    bottom: 19.77%;
+}
+
+/* Donald Trump */
+
+.userCardName {
+    position: absolute;
+    left: 42.08%;
+    right: 16.39%;
+    top: 8.47%;
+    bottom: 75.71%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+
+/* Group 37 */
+
+.userCardPos1 {
+    position: absolute;
+    left: 44.81%;
+    right: 15.3%;
+    top: 29.94%;
+    bottom: 55.93%;
+}
+
+
+/* Rectangle 73 */
+
+.userCardPos1Rectangle {
+    position: absolute;
+    left: 44.81%;
+    right: 15.3%;
+    top: 29.94%;
+    bottom: 55.93%;
+
+    background: #5200FF;
+    border-radius: 15px;
+}
+
+/* Fight choreographer */
+
+.userCardPos1Title {
+    position: absolute;
+    left: 47.54%;
+    right: 18.03%;
+    top: 32.77%;
+    bottom: 58.19%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+
+/* Group 39 */
+
+.userCardPos2 {
+    position: absolute;
+    left: 44.81%;
+    right: 39.07%;
+    top: 66.1%;
+    bottom: 19.77%;
+}
+
+
+/* Rectangle 75 */
+
+.userCardPos2Rectangle {
+    position: absolute;
+    left: 44.81%;
+    right: 39.07%;
+    top: 66.1%;
+    bottom: 19.77%;
+
+    background: #5200FF;
+    border-radius: 15px;
+}
+
+/* Model */
+
+.userCardPos2Title {
+    position: absolute;
+    left: 47.54%;
+    right: 41.8%;
+    top: 68.93%;
+    bottom: 22.03%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+
+/* Group 38 */
+
+.userCardPos3 {
+    position: absolute;
+    left: 44.81%;
+    right: 6.83%;
+    top: 48.02%;
+    bottom: 37.85%;
+}
+
+
+/* Rectangle 74 */
+
+.userCardPos3Rectangle {
+    position: absolute;
+    left: 44.81%;
+    right: 6.83%;
+    top: 48.02%;
+    bottom: 37.85%;
+
+    background: #5200FF;
+    border-radius: 15px;
+}
+
+/* Assistant Stage Manager */
+
+.userCardPos3Title {
+    position: absolute;
+    left: 47.54%;
+    right: 9.56%;
+    top: 50.85%;
+    bottom: 40.11%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+
+/* Concept Video */
+
+.tag1 {
+    position: absolute;
+    left: 6.67%;
+    right: 85.62%;
+    top: 44.5%;
+    bottom: 53.56%;
+}
+
+
+/* Rectangle 63 */
+
+.tag1Rectangle {
+    position: absolute;
+    left: 6.67%;
+    right: 85.62%;
+    top: 44.5%;
+    bottom: 53.56%;
+
+    background: #5200FF;
+    border-radius: 15px;
+}
+
+/* Concept Video */
+
+.tag1Text {
+    position: absolute;
+    left: 7.36%;
+    right: 86.25%;
+    top: 44.81%;
+    bottom: 53.95%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+
+/* Calendar */
+
+.calendar {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 106px;
+    top: 616px;
+}
+
+
+/* Vector */
+
+.calendarv1 {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 16.67%;
+    bottom: 8.33%;
+
+    border: 2px solid #000000;
+}
+
+/* Vector */
+
+.calendarv2 {
+    position: absolute;
+    left: 66.67%;
+    right: 33.33%;
+    top: 8.33%;
+    bottom: 75%;
+
+    border: 2px solid #000000;
+}
+
+/* Vector */
+
+.calendarv3 {
+    position: absolute;
+    left: 33.33%;
+    right: 66.67%;
+    top: 8.33%;
+    bottom: 75%;
+
+    border: 2px solid #000000;
+}
+
+/* Vector */
+
+.calendarv4 {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 41.67%;
+    bottom: 58.33%;
+
+    border: 2px solid #000000;
+}
+
+/* ApplyButton */
+
+.applyButton {
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    left: 96px;
+    top: 873px;
+
+    background: #5200FF;
+    border-radius: 15px;
+}
+
+
+/* Save */
+
+.saveButton {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 206px;
+    top: 877px;
+}
+
+
+/* bookmark */
+
+.bookmarkButton {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 206px;
+    top: 877px;
+}
+
+
+/* Vector */
+
+.bookmarkv {
+    position: absolute;
+    left: 20.83%;
+    right: 20.83%;
+    top: 12.5%;
+    bottom: 12.5%;
+
+    border: 2px solid #5200FF;
+}
+
+/* Arrow */
+
+.arrow {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 263px;
+    top: 877px;
+}
+
+
+/* send */
+
+.send {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 263px;
+    top: 877px;
+}
+
+
+/* Vector */
+
+.sendv1 {
+    position: absolute;
+    left: 45.83%;
+    right: 8.33%;
+    top: 8.33%;
+    bottom: 45.83%;
+
+    border: 2px solid #5200FF;
+}
+
+/* Vector */
+
+.sendv2 {
+    position: absolute;
+    left: 8.33%;
+    right: 8.33%;
+    top: 8.33%;
+    bottom: 8.33%;
+
+    border: 2px solid #5200FF;
+}
+
+/* Apply */
+
+.applyText {
+    position: absolute;
+    width: 40px;
+    height: 19px;
+    left: 115px;
+    top: 877px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+
+/* Dates */
+
+.dates {
+    position: absolute;
+    left: 9.93%;
+    right: 80.28%;
+    top: 47.99%;
+    bottom: 50.54%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    color: #000000;
+}

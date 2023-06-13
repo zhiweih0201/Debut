@@ -1,0 +1,19 @@
+.user-name {
+    position: relative;
+    left: 5%;
+    right: 5%;
+    top: 15px;
+    bottom: 75.71%;
+    max-width: 210px;
+    height: 28px;
+    margin: 0;
+
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: left;
+
+}
+

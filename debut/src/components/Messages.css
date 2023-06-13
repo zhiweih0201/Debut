@@ -1,0 +1,168 @@
+/* Messages */
+
+.messages{
+position: relative;
+width: 1440px;
+height: 900px;
+
+background: #FFFFFF;
+}
+
+/* Box 2 */
+/* unread */
+.box2{
+position: absolute;
+width: 1287px;
+height: 137px;
+left: 85px;
+top: 107px;
+
+background: #5200FF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+}
+
+/* Box 1 */
+/* read */
+.box1{
+position: absolute;
+width: 1287px;
+height: 137px;
+left: 85px;
+top: 260px;
+
+background: #999999;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+}
+
+/* Photo 2 */
+
+.photo2{
+position: absolute;
+width: 90px;
+height: 90px;
+left: 111px;
+top: 131px;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Photo 1 */
+
+.photo1{
+position: absolute;
+width: 90px;
+height: 90px;
+left: 111px;
+top: 284px;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Name 2 */
+
+.name{
+position: absolute;
+width: 500px;
+height: 28px;
+left: 240px;
+top: 131px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+
+/* Name 1 */
+
+.name2{
+position: absolute;
+width: 500px;
+height: 28px;
+left: 240px;
+top: 200px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+
+/* Textbox */
+
+.textbox{
+position: absolute;
+width: 1086px;
+height: 65px;
+left: 240px;
+top: 318px;
+padding-left: 2px;
+border-radius: 15px;
+
+background: #FFFFFF;
+}
+
+/* Textbox 2 */
+
+.textbox2{
+position: absolute;
+width: 1086px;
+height: 65px;
+left: 240px;
+top: 250px;
+padding-left: 2px;
+border-radius: 15px;
+
+background: #FFFFFF;
+}
+
+/* Text 2 */
+
+.text2{
+position: absolute;
+width: 980px;
+height: 56px;
+left: 293px;
+top: 165px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+
+/* Text */
+
+.text{
+position: absolute;
+width: 980px;
+height: 56px;
+left: 293px;
+top: 318px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}

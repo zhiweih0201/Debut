@@ -1,0 +1,194 @@
+.name {
+    position: absolute;
+      width: 194px;
+      height: 25px;
+      left: 100px;
+      top: 145px;
+    
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 28px;
+    
+      color: #000000;
+    
+  }
+  
+  .email {
+    position: absolute;
+      width: 194px;
+      height: 25px;
+      left: 100px;
+      top: 220px;
+    
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 28px;
+    
+      color: #000000;
+  }
+  
+  .year {
+    position: absolute;
+      width: 194px;
+      height: 25px;
+      left: 110px;
+      top: 295px;
+    
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 28px;
+    
+      color: #000000;
+  }
+  
+  .phone-num {
+    position: absolute;
+      width: 194px;
+      height: 25px;
+      left: 100px;
+      top: 370px;
+    
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 28px;
+    
+      color: #000000;
+  }
+  
+  .bio {
+    position: absolute;
+      width: 194px;
+      height: 25px;
+      left: 110px;
+      top: 435px;
+    
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 28px;
+    
+      color: #000000;
+  }
+  
+  .bio-text {
+    position: absolute;
+      width: 460px;
+      height: 57px;
+      left: 114px;
+      top: 465px;
+    
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 19px;
+    
+      color: #000000;
+  }
+  
+  .text-box-1 {
+    position: absolute;
+      width: 343px;
+      height: 45px;
+      left: 298px;
+      top: 75px;
+  }
+  
+  .text-box-2 {
+    position: absolute;
+      width: 343px;
+      height: 45px;
+      left: 298px;
+      top: 103px;
+  }
+  
+  .text-box-3 {
+    position: absolute;
+      width: 343px;
+      height: 45px;
+      left: 298px;
+      top: 131px;
+  }
+  
+  .text-box-4 {
+    position: absolute;
+      width: 343px;
+      height: 45px;
+      left: 298px;
+      top: 159px;
+  }
+  
+  .text-box-5 {
+    position: absolute;
+      width: 543px;
+      height: 160px;
+      left: 98px;
+      top: 260px;
+    font-size: 8;
+  }
+  
+  .expertise {
+    position: absolute;
+      width: 194px;
+      height: 25px;
+      left: 747px;
+      top: 145px;
+    
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 28px;
+    
+      color: #000000;
+  }
+  
+  .expertist-skill {
+    position: absolute;
+      width: 569px;
+      height: 38px;
+      left: 781px;
+      top: 188px;
+    
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 19px;
+    
+      color: #000000;
+  }
+  
+  .select-options {
+    position: absolute;
+      width: 260px;
+      height: 40px;
+      left: 1112px;
+      top: 261px;
+    
+      background: #FFFFFF;
+      border: 1px solid #000000;
+      box-sizing: border-box;
+      border-radius: 8px;
+  }
+  
+  .text-box-6 {
+      position: absolute;
+      left: 747px;
+      top: 265px;
+  }
+  
+  .text-box-6-text {
+    font-size: 8px;
+    width: 343px;
+    height: 400px;
+  }

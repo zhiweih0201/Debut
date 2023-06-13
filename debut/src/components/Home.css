@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), url(../font/Roboto/Roboto-Regular.ttf) format("truetype");
+}
+
+.label-all-projects {
+    position: absolute;
+    width: 194px;
+    height: 25px;
+    left: 56px;
+    top: 270px;
+    font-family: 'Roboto', Serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.cards-display-home {
+    position: absolute;
+    left: 105px;
+    top: 350px;
+}
+
+.blank {
+    position: absolute;
+    height: 10px;
+    width: 10px;
+}
+

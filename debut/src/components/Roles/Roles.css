@@ -1,0 +1,93 @@
+.role-1 {
+  position: absolute;
+  width: 100px;
+  height: 28px;
+  left: 289px;
+  top: 1183px;
+
+  font-family: 'Roboto', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+.role-title-1 {
+  position: absolute;
+  width: 645px;
+  height: 25px;
+  left: 324px;
+  top: 1245px;
+
+  font-family: 'Roboto', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+}
+
+.role-title-prompt {
+  position: absolute;
+  width: 374px;
+  height: 50px;
+  left: 324px;
+  top: 1300px;
+}
+
+.role-number-1 {
+  position: absolute;
+  width: 371px;
+  height: 25px;
+  left: 780px;
+  top: 1245px;
+
+  font-family: 'Roboto', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+}
+
+.role-number-prompt {
+  position: absolute;
+  width: 374px;
+  height: 50px;
+  left: 779px;
+  top: 1300px;
+}
+
+.role-prompt-1 {
+  position: absolute;
+  width: 645px;
+  height: 25px;
+  left: 321px;
+  top: 1355px;
+
+  font-family: 'Roboto', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.role-description-field-1 {
+  position: absolute;
+  width: 830px;
+  height: 102px;
+  left: 321px;
+  top: 1420px;
+
+}

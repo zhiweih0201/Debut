@@ -1,0 +1,41 @@
+.users-found-label {
+    position: absolute;
+    width: 444px;
+    height: 25px;
+    left: 56px;
+    top: 251px;
+
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.projects-found-label {
+    position: absolute;
+    width: 444px;
+    height: 25px;
+    left: 56px;
+    top: 499px;
+
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+.cards-display-search {
+    position: absolute;
+    left: 119px;
+    top: 575px;
+}
+
+.user-display {
+    position: absolute;
+    left: 119px;
+    top: 330px;
+}
